@@ -1,3 +1,5 @@
+#Copyright Armasu Octavian
+
 import random
 stages = ['''
           +---+
