@@ -1,3 +1,5 @@
+#Copyright Armasu Octavian
+
 # Hangman Game in Python
 
 This is a simple Hangman game implemented in Python, where you'll be guessing words in the Romanian language. The game offers three difficulty levels: easy, medium, and hard. The difficulty level determines the complexity of the words you'll be guessing.
@@ -8,14 +10,14 @@ This is a simple Hangman game implemented in Python, where you'll be guessing wo
    - Clone this repository to your local machine using the following command:
 
      ```bash
-     git clone https://github.com/your-username/hangman-python.git
+     git clone https://github.com/octavianarmasu/Hangman-Game
      ```
 
 2. **Navigate to the Directory**
    - Change your current directory to the project folder:
 
      ```bash
-     cd hangman-python
+     cd Hangman-Game
      ```
 
 3. **Run the Game**
@@ -36,10 +38,3 @@ This is a simple Hangman game implemented in Python, where you'll be guessing wo
 6. **Win or Lose**
    - If you guess all the letters before running out of attempts, you win the game.
    - If you run out of attempts before guessing the word, you lose.
-
-
-
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Enjoy playing Hangman in Romanian!
